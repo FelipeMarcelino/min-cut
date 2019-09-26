@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+building_flow_graph	main.cpp	/^int building_flow_graph(int source, int sink, int max_flow,$/;"	f	typeref:typename:int
+building_level_graph	main.cpp	/^bool building_level_graph(std::vector<int> &levels,$/;"	f	typeref:typename:bool
+dinic_max_flow	main.cpp	/^void dinic_max_flow(std::vector<std::vector<int>> matrix_adj, int source,$/;"	f	typeref:typename:void
+main	main.cpp	/^int main() {$/;"	f	typeref:typename:int
+min-cut	README.md	/^# min-cut$/;"	c
+print1D	main.cpp	/^void print1D(std::vector<int> vec) {$/;"	f	typeref:typename:void
+print2D	main.cpp	/^void print2D(std::vector<std::vector<int>> vec) {$/;"	f	typeref:typename:void
